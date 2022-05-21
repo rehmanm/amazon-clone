@@ -36,3 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Tutorial
 [Tutorial](https://www.youtube.com/watch?v=HMdwbq1JJT0)
+
+## Deployed
+
+[Deployed](https://amazon-clone-rehmanm.netlify.app/)
